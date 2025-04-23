@@ -37,7 +37,7 @@ Don’t forget to save the file as “**index.html**” in the folder “**part1
 ### Part 2: Adding and linking images
 
 
-In this exercise, you’ll add images to pages and use them as links. All of the full-size photos and thumbnails (small versions of the images) you need have been created for you, and I’ve given you a head start on the HTML files with basic styles as well. Please download the zip file ex2-2.zip from SCOMB and unzip the file. You will find gallery folder. 
+In this exercise, you’ll add images to pages and use them as links. All of the full-size photos and thumbnails (small versions of the images) you need have been created for you, and I’ve given you a head start on the HTML files with basic styles as well. Please download the zip file ex2-2. You will find gallery folder. 
 
 Put a copy of the gallery folder on your hard drive, making sure to keep it organized as you find it.
 
