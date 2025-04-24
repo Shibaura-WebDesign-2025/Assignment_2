@@ -30,8 +30,10 @@ Hint 3: Finally, copyright information is typically “small print” on a docum
 Don’t forget to save the file as “**index.html**” in the folder “**part1**”. Make sure you double check by accessing the link by yourself too.
 
 <p align="center">
-  <img width="450" alt="image" src="https://github.com/user-attachments/assets/9fd932bd-7ac1-4285-b05d-c5fd4791377b">
+  <img width="450" alt="image" src="https://github.com/user-attachments/assets/d39a84f8-ad4c-42ca-b96a-44a1b2c43e28">
 </p>
+
+
 
 
 ### Part 2: Adding and linking images
@@ -59,8 +61,10 @@ congratulations, you’re done! The finish version should look like this.
 
 
 <p align="center">
-  <img width="450" alt="image" src="https://github.com/user-attachments/assets/717d79a8-ac24-4764-969a-72550a799a09">
+  <img width="450" alt="image" src="https://github.com/user-attachments/assets/ec22bd58-a0a5-404e-bc7c-05245203f1f9">
 </p>
+
+
 
 
 Don’t forget to save the file as “**index.html**” and put all necessary files and subfolders in the folder “**part2**”. Make sure you double check by accessing the link by yourself too.
@@ -77,8 +81,9 @@ Note: The content of timetable should be different than the figure because this 
 The only requirement is that this class (Web Design and Programming) must span for two rows, like in the figure.
 
 <p align="center">
-  <img width="450" alt="image" src="https://github.com/user-attachments/assets/e7be0dbc-936f-43fe-9cd0-46cefaf2688a">
+  <img width="450" alt="image" src="https://github.com/user-attachments/assets/3d431080-2281-4722-9a36-92442a09c5bf">
 </p>
+
 
 Don’t forget to save the file as “index.html” in the folder “part3”. Make sure you double check by accessing the link by yourself too.
 
